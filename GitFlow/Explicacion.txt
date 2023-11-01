@@ -14,7 +14,7 @@ HotFix
 Se usara para las correcciones en "caliente", es decir cuando el software ya haya
 pasado por todo el proceso de producción. 
 
-Realese
+Release
 Se usara para la inclusión de retoques o implementaciones hasta ese momento 
 para la nueva versión en el master. 
 
@@ -23,3 +23,6 @@ En esta sección se desarrollara las funciones dadas por los features.
 
 Feature
 Se usara para implementar o corregir funcionalidades del Landing Page.
+
+QA
+Se utilizará para realizar las pruebas de los cambios.

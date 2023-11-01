@@ -9,7 +9,7 @@ conforman:
 Master
 Es la rama por defecto y se usara para las distintas versiones de las publicación del proyecto
 
-Hotfix
+HotFix
 Se usara para las correcciones en "caliente", es decir cuando el software ya haya
 pasado por todo el proceso de producción. 
 

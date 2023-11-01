@@ -1,4 +1,5 @@
 //explicacion
+//all aplication
 Aplicación de GitFlow
 
 Implementareamos el modelo de flujo GitFlow, la cual usaremos

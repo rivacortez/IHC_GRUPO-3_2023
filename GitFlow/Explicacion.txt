@@ -4,7 +4,7 @@ Aplicación de GitFlow
 
 Implementareamos el modelo de flujo GitFlow, la cual usaremos
 con el objetivo de organizar y estructurar la construcción del 
-Landing Page en GitHub por medio de sus diversas ramas que la
+Landing Page en GitHub por medio de sus diversas ramas que la 
 conforman:
 
 Master

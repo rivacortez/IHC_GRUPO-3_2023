@@ -21,5 +21,4 @@ para la nueva versión en el master.
 Develop
 En esta sección se desarrollara las funciones dadas por los features.
 
-feature
-Se usara para implementar o corregir funcionalidades del Landing Page.
+
